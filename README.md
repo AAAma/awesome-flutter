@@ -11,8 +11,10 @@ Flutter is a mobile app SDK for building high-performance, high-fidelity, apps f
 The goal is to enable developers to deliver high-performance apps that feel natural on different platforms. We embrace differences in scrolling behaviors, typography, icons, and more.
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+贡献值得欢迎。 通过拉取请求添加链接或创建问题以开始讨论。
 
 If you appreciate the content 📖 please give a ⭐ to help project visibility.
+如果你喜欢这些内容 📖 请
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
@@ -27,47 +29,47 @@ If you appreciate the content 📖 please give a ⭐ to help project visibility.
 
 </tr></table></div>
 
-## Contents
+## 目录
 
-- [Introduction](#introduction)
-- [Articles](#articles)
-- [Components](#components)
-- [Navigation](#navigation)
-- [Template](#templates)
-- [Utilities](#utilities)
+- [简介](#简介)
+- [文集](#articles)
+- [组件](#components)
+- [导航](#navigation)
+- [模板](#templates)
+- [实用软件](#utilities)
 - [Seeds](#seeds)
-- [Plugins](#plugins)
-- [Open Source Apps](#open-source-apps)
-- [Frameworks](#frameworks)
+- [插件](#plugins)
+- [开源应用](#open-source-apps)
+- [框架](#frameworks)
 - [Helpers](#helpers)
 - [Bonus](#bonus)
 
-## Introduction
+## 简介
 
 <a href="https://www.youtube.com/watch?v=GCCjR0mbJMM&feature=youtu.be">
 <img width="500" src="https://i.ytimg.com/vi/GCCjR0mbJMM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBqUsMLcLjhAs-_Bp-PvM_jbqGSwQ">
 <br>
-Introduction to Flutter - Faisal Abid
+Flutter 简介 - Faisal Abid
 </a>
 
-## Articles
+## 文集
 
-### Begin with
+### 入门文章
 
-- [Flutter Labs](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) - Building beautiful UIs with Flutter step by step
-- [Zero to One with Flutter](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn)
-- [FLUTTER from Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid)
-- [What’s Revolutionary about Flutter](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514) - Comparison to other mobile SDKs by [Wm Leler](https://twitter.com/flutter_wm)
+- [Flutter 实验室](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) - 一步一步地教你用 Flutter 开发漂亮的用户界面
+- [Flutter 从零到一](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) - Flutter 基础，作者是 [Mikkel Ravn](https://medium.com/@mravn)
+- [FLUTTER 从安装到写一个 ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) - 全套4篇文章，作者是 [Chema Rubio](https://twitter.com/develodroid)
+- [Flutter 有那些革命性的内容](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514) - 与其他各种移动 SDK 的比较，作者是 [Wm Leler](https://twitter.com/flutter_wm)
 
-### Tutorial
+### 教程
 
 - [Coding an Android App](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) - Setup and first app by [Ashraff Hathibelagal](https://github.com/hathibelagal)
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs with Flutter by Google Code Labs
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs
-- [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
+- [Planets-Flutter：从设计到开发](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
 
-#### Video Series
-- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - This set of over 50 videos which ranges from layout, database persitence and general flutter tips and tricks. 
+#### 视频教程
+- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - This set of over 50 videos which ranges from layout, database persitence and general flutter tips and tricks. 这套超过50个视频范围从布局，数据库持久性和一般扑翼技巧和窍门
 - [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - contains a list of Flutter videos.
 - [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - Very rich content by [Tensor Programming](http://tensor-programming.com/)
 - [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Flutter dedicated channel on Dart-Streams
@@ -80,18 +82,18 @@ Introduction to Flutter - Faisal Abid
 
 ### Howtos
 
-- [Zero to One Flutter Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn)
+- [Flutter 动画从零到一](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - 主要讲动画，作者是 [Mikkel Ravn](https://medium.com/@mravn)
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - By [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - Flutter App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin)
 - [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) - Firebase live coding
 - [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - By Mehmet Fidanboylu
 - [Flutter Redux Todo](https://github.com/xqwzts/flutter-redux-todo-list) - Todo application by [Victor Choueiri](https://github.com/xqwzts)
-- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - How to make a custom plug-in for flutter ? by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
+- [开发你自己的插件](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - How to make a custom plug-in for flutter ? by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
 - [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 
-## Components
+## 组件
 
-### Demonstrations
+### 示范
 
 - [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
 - [Posse Gallery](https://github.com/flutter/posse_gallery) - Demonstration by [Posse](http://goposse.com)
@@ -99,48 +101,48 @@ Introduction to Flutter - Faisal Abid
 
 ### UI
 
-- [SpriteWidget](https://github.com/spritewidget/spritewidget) -  Toolkit for building complex, high performance animations and 2D games by Viktor Lidholt
+- [SpriteWidget](https://github.com/spritewidget/spritewidget) -  用于构建复杂的高性能动画和 2D 游戏的工具包 by Viktor Lidholt
 - [Color Picker](https://github.com/dart-flitter/flutter_color_picker) - Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard)
 - [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
 - [Contact Picker](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) - ViewPager by [Iiro Krankka](https://github.com/roughike)
-- [Rich Text Editor](https://github.com/long1eu/rich_editor) - Text editor with style by [Lung Razvan](https://github.com/long1eu)
+- [富文本编辑器](https://github.com/long1eu/rich_editor) - Text editor with style by [Lung Razvan](https://github.com/long1eu)
 - [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
 - [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
 
-### Image
+### 图片
 
-- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - Images Selection by [Collin Jackson](http://www.collinjackson.com)
-- [Zoomable Image](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
+- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - 图片选取 by [Collin Jackson](http://www.collinjackson.com)
+- [可缩放图像](https://github.com/perlatus/flutter_zoomable_image) - By Perlatus
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) - A carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 
-### Map
+### 地图
 
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
 - [Flutter Map](https://github.com/apptreesoftware/flutter_map) - Open-source map solution (based on [Leaflet](http://leafletjs.com/)), easily customizable, contributions welcome. By [AppTree Software](https://github.com/apptreesoftware)
 - [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) - Interactive, customizable vector maps by Mapbox.
 
-#### Charts
+#### 图表
 
-- [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) - Animated radial and pie charts by [Victor Choueiri](https://github.com/xqwzts)
-- [Flutter Charts](https://github.com/mzimmerm/flutter_charts) - LineChart and VerticalBarChart Library by [Milan Zimmermann](https://github.com/mzimmerm)
+- [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) - 带动画效果的径向图和饼图 by [Victor Choueiri](https://github.com/xqwzts)
+- [Flutter Charts](https://github.com/mzimmerm/flutter_charts) - 折线图和垂直柱状图的库 by [Milan Zimmermann](https://github.com/mzimmerm)
 - [Sparkline](https://github.com/xqwzts/flutter_sparkline) - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
 - [Charts](https://github.com/google/charts) - By Google Charts Team
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) - Pretty plots by [R. C. Howell](https://github.com/RCHowell/).
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy).
 
 
-### Navigation
+### 导航
 
 - [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
 - [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions.
 
-### Auth
+### 认证
 
 - [Local Auth](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on Ios and Android
 - [Flutter Login](https://github.com/AppleEducate/flutter_login) - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
@@ -188,9 +190,9 @@ Introduction to Flutter - Faisal Abid
 - [Video Launcher](https://github.com/rxlabz/flutter_video_launcher) - Launch a video player by [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Stereo](https://github.com/2find/stereo) - Playing music on iOS and Android by [2Find](https://github.com/2find)
 
-#### Voice
+#### 语音
 
-- [Speech Recognition](https://github.com/rxlabz/speech_recognition) - Speech to text by [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Speech Recognition](https://github.com/rxlabz/speech_recognition) - 语音转文字，作者是 [Erick Ghaumez](https://twitter.com/rxlabz)
 - [OK Google](https://marcinszalek.pl/flutter/ok-google-flutter/) - Integrate google assistant by [Marcin Szalek](https://marcinszalek.pl/)
 
 ### Storage
@@ -203,7 +205,7 @@ Introduction to Flutter - Faisal Abid
 - [Firebase AdMob](https://github.com/flutter/plugins/tree/master/packages/firebase_admob) - Ad integration using Firebase
 - [Flutter Billing](https://github.com/VolodymyrLykhonis/flutter_billing) - Enable billing on iOS and Android by [Volodymyr Lykhonis](http://vladimirlichonos.com)
 
-## Templates
+## 模板
 
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - Movie details page by [Iiro Krankka](https://github.com/roughike)
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
@@ -215,7 +217,7 @@ Introduction to Flutter - Faisal Abid
 - [Music Player](https://github.com/thosakwe/flutter_music_player) - music player component by [Tobe O](https://thosakwe.com/)
 - [Dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
 
-## Utilities
+## 实用软件
 
 ### IDE
 
@@ -224,7 +226,7 @@ Introduction to Flutter - Faisal Abid
 - [IntelliJ Snippets](https://github.com/Solido/flutter-snippet) - More More More Snippets to get stuffs done even faster and also learn quickly by [Robert Felker](https://github.com/Solido)
 - [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva
 
-## Plugins
+## 插件
 
 - [Flutter Plugins](https://github.com/flutter/plugins/tree/master/packages) - Official Flutter Team Plugins
 - [Sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin by [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
@@ -241,26 +243,26 @@ Introduction to Flutter - Faisal Abid
 - [App Rating](https://github.com/AppleEducate/app_review) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
 - [Get Version](https://github.com/AppleEducate/get_version) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
 
-### Plugins development
+### 插件开发
 
 - [Plugins Help](https://github.com/freewheelnat/flutter_plugins_help) - Connecting Android and iOS developers to develop flutter plugins by [Natalie Masse Hooper](https://twitter.com/NatJM)
 
-### Bluetooth
+### 蓝牙
 
  - [Flutter Ble](https://github.com/Polidea/FlutterBleLib) - Bluetooth by [Polidea](http://www.polidea.com)
  - [Flutter Blue](https://github.com/pauldemarco/flutter_blue) - Bluetooth by [Paul DeMarco](https://github.com/pauldemarco)
 
-## Open Source Apps
+## 开源应用
 
-- [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - Offline/Firebase chat by a team of Googlers
+- [FriendlyChat](https://github.com/flutter/friendlychat-flutter) - Offline/Firebase chat by a team of Googlers一群谷歌员工开发的离线或者是基于 Firebase 的聊天应用
 - [Meme Chat](https://github.com/efortuna/memechat) - Chat app on Flutter, using Firebase, Google Sign In, and device camera integration by a team of Googlers
 - [Flutter News](https://github.com/andresaraujo/flutter_news) - Hacker News client by [Andres Araujo](http://andresaraujo.co)
 - [Flitter](https://github.com/dart-flitter/flitter) - Glitter app by [Hadrien Lejard](https://twitter.com/HadrienLejard) and [Kevin Segaud](https://twitter.com/kevin_segaud). It use the Redux and Jaguar !
-- [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - by Óscar Caballero in the kitchen
-- [Lime](https://github.com/fablue/lime-flutter) - Lime social network by Sebastian Sellmair
+- [Cooking App](https://github.com/oscarcpozas/cooking-app-flutter) - 作者是厨房里的 Óscar Caballero
+- [Lime](https://github.com/fablue/lime-flutter) - Lime 是 Sebastian Sellmair 开发的社交网络应用
 - [Flitch](https://github.com/matanlurey/flitch) - Twitch client for Flutter by [Matan Lurey](https://twitter.com/matanlurey).
-- [WikiFlutter](https://github.com/nanowang/wiki-flutter) - Wikipedia reader by [Nano WANG](https://github.com/nanowang)
-- [DartHub](https://github.com/SamThompson/dart_hub) - GitHub client written in flutter by [Sam Thompson](https://github.com/SamThompson)
+- [WikiFlutter](https://github.com/nanowang/wiki-flutter) - [Nano WANG](https://github.com/nanowang) 开发的维基百科阅读器
+- [DartHub](https://github.com/SamThompson/dart_hub) - 用 flutter 写的 GitHub 客户端，作者是 [Sam Thompson](https://github.com/SamThompson)
 - [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) - Planet exploration that demonstrate rich UI by [Sergi Martínez](http://sergiandreplace.com)
 - [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) - Movie browsing app using MVP, PathProviders, FutureBuilders and Database by [Dilpreet Singh](https://github.com/dilpreet96)
@@ -268,11 +270,11 @@ Introduction to Flutter - Faisal Abid
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) - Companion app for Heroes of Storm including redux and sqflite by [arranf](https://github.com/arranf)
 - [CryptoShadow](https://github.com/huextrat/CryptoShadow) - CryptoCurrency Tracker by [Hugo EXTRAT](https://github.com/huextrat)
 - [Trovami](https://github.com/Samaritan1011001/Trovami) - Live location sharing app built on Flutter and Firebase as backend by [Manoj NB](https://github.com/Samaritan1011001)
-- [Music Player](https://github.com/iampawan/Flutter-Music-Player) - Full featured music player by [Pawan Kumar](https://about.me/imthepk)
+- [Music Player](https://github.com/iampawan/Flutter-Music-Player) - [Pawan Kumar](https://about.me/imthepk) 开发的全功能音乐播放器
 - [Planty](https://github.com/Ivaskuu/plantly) - Plants shop by [Ivascu Adrian](https://github.com/Ivaskuu)
 - [inKino](https://github.com/roughike/inKino) - Complete movie app that uses flutter_redux for state management, has nice transition animations, and a comprehensive set of widget & unit tests, by [Iiro Krankka](https://github.com/roughike)
 
-## Frameworks
+## 框架
 
 ### Flux / Redux
 
@@ -281,7 +283,7 @@ Introduction to Flutter - Faisal Abid
 - [redux.dart](https://github.com/johnpryan/redux.dart) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
 - [flutter_redux](https://github.com/brianegan/flutter_redux) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
 
-### Game
+### 游戏
 
 - [Flame](https://github.com/luanpotter/flame) - Minimalist game engine by [Luan Nico](https://github.com/luanpotter)
 
