@@ -1,25 +1,25 @@
-# Contribution Guidelines
+# 贡献指南
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc). By participating in this project you agree to abide by its terms.
+请注意，这个项目发布了一个 [贡献者行为准则](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc)。通过参与这个项目，表示你同意遵守其中的条款。
 
 -
 
-Ensure your pull request adheres to the following guidelines:
+确保你的 pull request 符合以下准则：
 
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested packages should be tested and documented.
-- The pull request should have a meaningful title and include a link to the package / resource and why it's awesome.
-- Make an individual pull request for each suggestion.
-- Use the following format: `[resource](link) - Description.`
-- Use [title-casing](http://titlecapitalization.com) (AP style).
-- Additions should be added to the bottom of the relevant category.
-- New categories, or improvements to the existing categorization are welcome.
-- Link to the GitHub repo, not npmjs.com.
-- Keep descriptions short and simple, but descriptive.
-- Don't mention `Quantified Self` in the description as it's implied.
-- Start the description with a capital and end with a full stop/period.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
+- 在提出一个新的建议之前先搜索一下以前的建议，因为你的建议可能是重复的。
+- 建议的包应该经过测试并且有文档描述。
+- 每个 pull request 都应该有一个有意义的标题，并且包含一个指向包或者是资源的链接，以及为什么它很棒。
+- 每个建议都要提一个单独的 pull request。
+- 使用以下格式：`[资源]（链接） - 描述`。
+- 使用 [title-casing](http://titlecapitalization.com)（美联社英语新闻写作风格）。
+- 新增的内容应该添加到相关分类的底部。
+- 欢迎提出新的分类或对现有分类进行改进。
+- 链接到 GitHub 仓库，而不是 npmjs.com 之类的。
+- 保持描述简短而又表达清楚。
+- 不要在描述中提及`自我量化`的内容或是包含各种暗示。
+- 描述要以大写字母开头并以句号结尾。
+- 检查你的拼写和语法。
+- 确保你的文本编辑器设置为删除结尾的空白。
 
-Thank you for your suggestions!
+谢谢你的建议！
 

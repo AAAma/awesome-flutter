@@ -1,17 +1,18 @@
 # Awesome Flutter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Getting effective quickly
+## Getting effective quickly快速生效
 
 [<img src="https://flutter.io/images/flutter-mark-square-100.png" width="100">](http://flutter.io)
 
-> An awesome style list that curates the best [Flutter](http://flutter.io) libraries, tools, tutorials, articles and more.一个很棒的风格列表，用来管理最好的[Flutter](http://flutter.io)库，工具，教程，文章等等。
+> 这是一个甄选了最好的 [Flutter](http://flutter.io) 库、工具、教程、文章以及更多内容的 awesome 风格的列表。
 
-Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.Flutter是一款移动应用程序SDK，用于从单个代码库构建针对iOS和Android的高性能，高保真应用程序。
+Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.Flutter是一款能够用一套代码构建针对 iOS 和 Android 的移动应用程序SDK，用于从单个代码库构建针对iOS和Android的高性能，高保真应用程序。
 
-The goal is to enable developers to deliver high-performance apps that feel natural on different platforms. We embrace differences in scrolling behaviors, typography, icons, and more.目标是使开发人员能够交付在不同平台上感觉自然的高性能应用程序。 我们拥抱滚动行为，排版，图标等方面的差异。
+The goal is to enable developers to deliver high-performance apps that feel natural on different platforms. We embrace differences in scrolling behaviors, typography, icons, and more.
+目标是使开发人员能够交付在不同平台上感觉自然的高性能应用程序。我们拥抱滚动行为，排版，图标等方面的差异。
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
-贡献值得欢迎。 通过拉取请求添加链接或创建问题以开始讨论。
+欢迎大家贡献一份力量。可以通过 pull request 添加链接或者创建问题以开始讨论。
 
 If you appreciate the content 📖 please give a ⭐ to help project visibility.
 如果你喜欢这些内容 📖 请
