@@ -1,6 +1,6 @@
 # 贡献指南
 
-请注意，这个项目发布了一个 [贡献者行为准则](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc)。通过参与这个项目，表示你同意遵守其中的条款。
+请注意，跟这个项目一起发布的还有一个 [贡献者行为准则](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc)。只要参与这个项目，就表示你同意遵守其中的条款。
 
 -
 
@@ -14,7 +14,7 @@
 - 使用 [title-casing](http://titlecapitalization.com)（美联社英语新闻写作风格）。
 - 新增的内容应该添加到相关分类的底部。
 - 欢迎提出新的分类或对现有分类进行改进。
-- 链接到 GitHub 仓库，而不是 npmjs.com 之类的。
+- 链接到 GitHub 仓库，而不是 npmjs.com 之类的地址。
 - 保持描述简短而又表达清楚。
 - 不要在描述中提及`自我量化`的内容或是包含各种暗示。
 - 描述要以大写字母开头并以句号结尾。

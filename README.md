@@ -8,14 +8,11 @@
 
 Flutter is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.Flutter是一款能够用一套代码构建针对 iOS 和 Android 的移动应用程序SDK，用于从单个代码库构建针对iOS和Android的高性能，高保真应用程序。
 
-The goal is to enable developers to deliver high-performance apps that feel natural on different platforms. We embrace differences in scrolling behaviors, typography, icons, and more.
-目标是使开发人员能够交付在不同平台上感觉自然的高性能应用程序。我们拥抱滚动行为，排版，图标等方面的差异。
+它的目标是使开发人员能够交付在不同平台上都感觉自然的高性能应用程序。当然我们也拥抱滚动行为、排版、图标等方面的差异。
 
-Contributions welcome. Add links through pull requests or create an issue to start a discussion.
-欢迎大家贡献一份力量。可以通过 pull request 添加链接或者创建问题以开始讨论。
+欢迎大家贡献一份力量。可以通过 pull request 添加链接或者创建一个 issue 来开始讨论。
 
-If you appreciate the content 📖 please give a ⭐ to help project visibility.
-如果你喜欢这些内容 📖 请
+如果你喜欢这些内容 📖 请给我们加颗 ⭐ 让更多人看到这个项目。
 
 <div style="text-align: center"><table><tr>
     <td style="text-align: center">
@@ -64,17 +61,17 @@ Flutter 简介 - Faisal Abid
 
 ### 教程
 
-- [开发一个安卓应用](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) - Setup and first app by [Ashraff Hathibelagal](https://github.com/hathibelagal)
-- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs 用 Flutter 来自 Google Code Labs
+- [开发一个安卓应用](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) - 配置还有开发第一个应用，作者是 [Ashraff Hathibelagal](https://github.com/hathibelagal)
+- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - 用 Flutter 创建漂亮的 UI,来自谷歌代码实验室（Google Code Labs）
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase Flutter by Google Code Labs
 - [Planets-Flutter：从设计到开发](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
 
 #### 视频教程
-- [The Flutter Episodes by Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - This set of over 50 videos which ranges from layout, database persitence and general flutter tips and tricks. 这套超过50个视频范围从布局，数据库持久性和一般扑翼技巧和窍门
-- [Flutter Talks](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - 包含了一系列 Flutter 相关的视频.
-- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - 内容非常丰富 by [Tensor Programming](http://tensor-programming.com/)
+- [Brandon Donnelson 的 Flutter 合集](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) - 这套超过 50 集的视频，内容包括布局、数据库持久性和一些常用的 flutter 技巧和窍门。
+- [Flutter 演讲](https://www.youtube.com/playlist?list=PLW08AvVvHDpHFQjXnjv4CKPyAdFLPMW4q&disable_polymer=true) - 包含了一系列 Flutter 相关的视频。
+- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) - 内容非常丰富，作者是 [Tensor Programming](http://tensor-programming.com/)
 - [Dart Streams](https://www.youtube.com/playlist?list=PLlpxjI4sVd-zZ1jpJHJMSHGiWInsvwwf_) - Dart-Streams 上面的 Flutter 专栏
-- [Bram Vanbilsen Tutorials](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - Discover SDK using VSCode by Bram Vanbilsen
+- [Bram Vanbilsen 的教程](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) - 用 VSCode Discover SDK，作者是 Bram Vanbilsen
 - [来自 VoidRealms 的 Flutter 教程](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan)
 - [Flutter Challenges](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value, in-depth Flutter challenges, tutorials, and patterns.
@@ -84,21 +81,21 @@ Flutter 简介 - Faisal Abid
 ### Howtos
 
 - [Flutter 动画从零到一](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) - 主要讲动画，作者是 [Mikkel Ravn](https://medium.com/@mravn)
-- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - By [Erick Ghaumez](https://twitter.com/rxlabz)
-- [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - Flutter App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin)
-- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) - Firebase live coding
-- [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - By Mehmet Fidanboylu
+- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) - 作者是 [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - 由 Google Cloud Functions 支持的 Flutter App，作者是 [Romin Irani](https://rominirani.com/@iromin)
+- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) - Firebase 实时编码
+- [Securing Flutter Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) - 作者是 Mehmet Fidanboylu
 - [Flutter Redux Todo](https://github.com/xqwzts/flutter-redux-todo-list) - Todo application by [Victor Choueiri](https://github.com/xqwzts)
-- [开发你自己的插件](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - How to make a custom plug-in for flutter ? by [Karthik Ponnam](https://medium.com/@KarthikPonnam)
-- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
+- [开发你自己的插件](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) - 如何为 flutter 开发自定义插件？作者是 [Karthik Ponnam](https://medium.com/@KarthikPonnam)
+- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) - 定义构建配置并切换它们，作者是 [Salvatore Giordano](https://medium.com/@salvatoregiordanoo)
 
 ## 组件
 
-### 示范
+### 示例
 
-- [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - Demo app for the material design widgets and other features provided by Flutter.
-- [Posse Gallery](https://github.com/flutter/posse_gallery) - Demonstration by [Posse](http://goposse.com)
-- [Flutter Examples](https://github.com/nisrulz/flutter-examples) - Simple basic isolated apps for budding flutter devs, by [Nishant Srivastava](https://github.com/nisrulz)
+- [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) - 展示 material design 风格的 widget 还有 Flutter 提供的一些其他功能的示例应用。
+- [Posse Gallery](https://github.com/flutter/posse_gallery) - 示例，作者是 [Posse](http://goposse.com)
+- [Flutter 示例](https://github.com/nisrulz/flutter-examples) - 为 flutter 开发者提供的一个简单基本的独立应用，作者是 [Nishant Srivastava](https://github.com/nisrulz)
 
 ### UI
 
@@ -115,31 +112,31 @@ Flutter 简介 - Faisal Abid
 
 ### 图片
 
-- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - 图片选取 by [Collin Jackson](http://www.collinjackson.com)
+- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - 图片选取，作者是 [Collin Jackson](http://www.collinjackson.com)
 - [可缩放图像](https://github.com/perlatus/flutter_zoomable_image) - 作者是 Perlatus
 - [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) - A carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 
 ### 地图
 
-- [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - Displaying google map plugin by [AppTree Software](https://www.linkedin.com/company/apptree-software/)
+- [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - 展示谷歌地图的插件，作者是 [AppTree Software](https://www.linkedin.com/company/apptree-software/)
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
-- [Flutter Map](https://github.com/apptreesoftware/flutter_map) - Open-source map solution (based on [Leaflet](http://leafletjs.com/)), easily customizable, contributions welcome. By [AppTree Software](https://github.com/apptreesoftware)
-- [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) - Interactive, customizable vector maps by Mapbox.
+- [Flutter 地图](https://github.com/apptreesoftware/flutter_map) - Open-source map solution (based on [Leaflet](http://leafletjs.com/)), easily customizable, contributions welcome. By [AppTree Software](https://github.com/apptreesoftware)
+- [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) - Interactive, customizable vector maps作者是 Mapbox.
 
 #### 图表
 
 - [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) - 带动画效果的径向图和饼图 by [Victor Choueiri](https://github.com/xqwzts)
 - [Flutter Charts](https://github.com/mzimmerm/flutter_charts) - 折线图和垂直柱状图的库 by [Milan Zimmermann](https://github.com/mzimmerm)
 - [Sparkline](https://github.com/xqwzts/flutter_sparkline) - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
-- [Charts](https://github.com/google/charts) - By Google Charts Team
+- [Charts](https://github.com/google/charts) - 来自谷歌图表团队（Google Charts Team）
 - [Flutter Plot](https://github.com/RCHowell/flutter_plot) - Pretty plots by [R. C. Howell](https://github.com/RCHowell/).
 - [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy).
 
 
 ### 导航
 
-- [Fluro](https://github.com/goposse/fluro) - The brightest, hippest, coolest router for Flutter with Navigation, wildcard, query, transitions by [Posse](http://goposse.com)
+- [Fluro](https://github.com/goposse/fluro) - 具有导航、通配符、查询、过渡动画的最亮，最时尚，最酷的 Flutter 路由器，作者是 [Posse](http://goposse.com)
 - [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
 - [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions.
 
@@ -154,26 +151,26 @@ Flutter 简介 - Faisal Abid
 - [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
 - [Slack OAuth](https://github.com/Kunstmaan/flutter_slack_oauth) or [Slack OAuth Firebase](https://github.com/Kunstmaan/flutter_slack_oauth_firebase) - Slack OAuth, optionally with Firebase Auth and Cloud Firestore integration.
 
-### Text & Rich Content
+### 文字和富文本
 
-- [Flutter Markdown](https://github.com/flutter/flutter_markdown) - Markdown renderer for Flutter. It supports the original format, but no inline html.
-- [Image Placeholder](https://github.com/FaisalAbid/pluto) - While large images load, show a fallback asset by [Faisal Abid](https://twitter.com/FaisalAbid)
+- [Flutter Markdown](https://github.com/flutter/flutter_markdown) - 用 Flutter 开发的 Markdown 渲染器。支持原始格式，但不支持内联 html。
+- [图片占位器](https://github.com/FaisalAbid/pluto) - 当加载大图片的时候，显示备用的资源，作者是 [Faisal Abid](https://twitter.com/FaisalAbid)
 
-### Analytics
+### 分析
 
-- [Usage](https://github.com/dart-lang/usage) - Google Analytics wrapper for command-line, web, and Flutter apps.
+- [Usage](https://github.com/dart-lang/usage) - 适用于命令行、网页 和 Flutter 应用程序的 Google Analytics 封装。
 - [Firebase Analytics](https://github.com/flutter/plugins/tree/master/packages/firebase_analytics) - 连接到 Firebase Analytics API
-- [Segment.com Analytics](https://github.com/FaisalAbid/segment-analytics-flutter) - Make your Segment.com analytics a breeze! by [Faisal Abid](https://twitter.com/FaisalAbid)
+- [Segment.com 分析](https://github.com/FaisalAbid/segment-analytics-flutter) - 让你的 Segment.com 分析变得轻而易举！作者是 [Faisal Abid](https://twitter.com/FaisalAbid)
 
-### Build & Development
+### 构建和开发
 
-- [Mutisya](http://mutisya.com/) - Online Flutter Studio by [Paul Mutisya](https://medium.com/@pmutisya)
+- [Mutisya](http://mutisya.com/) - Flutter 线上工作站，作者是 [Paul Mutisya](https://medium.com/@pmutisya)
 
-#### Build automation
+#### 自动化构建
 
-- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) - Continuous integration by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Test Flutter on Travis](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget testing framework by [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [Building Apks/Ipas on Travis](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - Automated build for Android and IOS by [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) - 持续集成，作者是 [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [在 Travis 上测试 Flutter](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) - Widget 测试框架，作者是 [Yegor Jbanov](https://twitter.com/yegorjbanov)
+- [在 Travis 上构建 Apk/Ipa](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) - 针对 Android 和 IOS 平台的自动化构建，作者是 [Yegor Jbanov](https://twitter.com/yegorjbanov)
 - [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) - Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
 
 ### 风格
