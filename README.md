@@ -74,11 +74,11 @@ Flutter 简介 - Faisal Abid
 - [Bram Vanbilsen 的教程](https://www.youtube.com/watch?v=CEPCGXQ7IQg&list=PLxU9Ryxq6p58PsNmJL70J4_7UzfSqf35n) —— 用 VSCode 探索 SDK，作者是 Bram Vanbilsen
 - [来自 VoidRealms 的 Flutter 教程](https://www.youtube.com/playlist?list=PLUbFnGajtZlX9ubiLzYz_cw92esraiIBi)
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) —— [印地语/英语] Mtechviral 系列，作者是 [Pawan Kumar](https://github.com/iampawan)
-- [Flutter Challenges](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) —— 高生产价值，深入的 Flutter 挑战、教程和模式。
+- [Flutter 挑战](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) —— 高生产价值，深入的 Flutter 挑战、教程和模式。
 - [Udacity](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) —— 用 Flutter 开发原生移动应用，来自 Google
 
 
-### Howtos
+### 说明文档
 
 - [Flutter 动画从零到一](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) —— 主要讲动画，作者是 [Mikkel Ravn](https://medium.com/@mravn)
 - [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) —— 作者是 [Erick Ghaumez](https://twitter.com/rxlabz)
@@ -99,46 +99,46 @@ Flutter 简介 - Faisal Abid
 
 ### UI
 
-- [SpriteWidget](https://github.com/spritewidget/spritewidget) -  用于构建复杂的高性能动画和 2D 游戏的工具包，作者是 Viktor Lidholt
-- [Color Picker](https://github.com/dart-flitter/flutter_color_picker) - Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard)
-- [3D Object](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
-- [Contact Picker](https://github.com/goderbauer/contact_picker) - Picking a contact from the address book by [Michael Goderbauer](https://github.com/goderbauer)
-- [Parallax](https://github.com/FlutterRocks/page-transformer) - ViewPager by [Iiro Krankka](https://github.com/roughike)
-- [富文本编辑器](https://github.com/long1eu/rich_editor) - Text editor with style by [Lung Razvan](https://github.com/long1eu)
-- [Material Color Picker](https://github.com/long1eu/material_color_picker) - Based on the Google Docs color picker by [Lung Razvan](https://github.com/long1eu)
-- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) - GridView with tiles of variable sizes by [Romain Rastel](https://github.com/letsar)
-- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts)
-- [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) - Tinder like cards swipe effect by [Ivascu Adrian](https://github.com/Ivaskuu)
+- [SpriteWidget](https://github.com/spritewidget/spritewidget) —— 用于构建复杂的高性能动画和 2D 游戏的工具包，作者是 Viktor Lidholt
+- [Color Picker](https://github.com/dart-flitter/flutter_color_picker) —— Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard)
+- [3D 对象](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
+- [Contact Picker](https://github.com/goderbauer/contact_picker) - 从通讯录里选取一个联系人，作者是 [Michael Goderbauer](https://github.com/goderbauer)
+- [Parallax](https://github.com/FlutterRocks/page-transformer) —— ViewPager，作者是 [Iiro Krankka](https://github.com/roughike)
+- [富文本编辑器](https://github.com/long1eu/rich_editor) —— Text editor with style by [Lung Razvan](https://github.com/long1eu)
+- [Material 风格的颜色拾取器](https://github.com/long1eu/material_color_picker) —— 基于 Google Docs 的颜色拾取器，作者是 [Lung Razvan](https://github.com/long1eu)
+- [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) —— 具有不同尺寸磁贴（tile）的 GridView，作者是 [Romain Rastel](https://github.com/letsar)
+- [径向菜单](https://github.com/xqwzts/flutter_radial_menu) —— 带动画的径向菜单，作者是 [Victor Choueiri](https://github.com/xqwzts)
+- [Tinder 卡片](https://github.com/Ivaskuu/tinder_cards) —— Tinder like 卡片滑动效果，作者是 [Ivascu Adrian](https://github.com/Ivaskuu)
 
 ### 图片
 
-- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) - 图片选取，作者是 [Collin Jackson](http://www.collinjackson.com)
-- [可缩放图像](https://github.com/perlatus/flutter_zoomable_image) - 作者是 Perlatus
-- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) - A carousel slider widget, support infinite scroll and custom child widget by [serenader](https://github.com/serenader2014)
-- [Parallax Image](https://github.com/pulyaevskiy/parallax-image) - Image parallax by [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
+- [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) —— 图片选择器，作者是 [Collin Jackson](http://www.collinjackson.com)
+- [可缩放图像](https://github.com/perlatus/flutter_zoomable_image) —— 作者是 Perlatus
+- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) —— 一个旋转滑动小部件，支持无限滚动和自定义子小部件，作者是 [serenader](https://github.com/serenader2014)
+- [Parallax Image](https://github.com/pulyaevskiy/parallax-image) —— 图像视差，作者是 [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 
 ### 地图
 
-- [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) - 展示谷歌地图的插件，作者是 [AppTree Software](https://www.linkedin.com/company/apptree-software/)
-- [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) - Forward and reverse geocoding by [Aloïs Deniel](https://aloisdeniel.github.com)
-- [Flutter 地图](https://github.com/apptreesoftware/flutter_map) - Open-source map solution (based on [Leaflet](http://leafletjs.com/)), easily customizable, contributions welcome. By [AppTree Software](https://github.com/apptreesoftware)
-- [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) - Interactive, customizable vector maps作者是 Mapbox.
+- [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) —— 展示谷歌地图的插件，作者是 [AppTree Software](https://www.linkedin.com/company/apptree-software/)
+- [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) —— 正向和反向地理编码，作者是 [Aloïs Deniel](https://aloisdeniel.github.com)
+- [Flutter 地图](https://github.com/apptreesoftware/flutter_map) —— 开源的地图解决方案（基于 [Leaflet](http://leafletjs.com/)），可以轻松定制，欢迎大家多做贡献。作者是 [AppTree Software](https://github.com/apptreesoftware)
+- [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) —— 交互式、可定制的矢量地图，作者是 Mapbox.
 
 #### 图表
 
-- [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) - 带动画效果的径向图和饼图 by [Victor Choueiri](https://github.com/xqwzts)
-- [Flutter Charts](https://github.com/mzimmerm/flutter_charts) - 折线图和垂直柱状图的库 by [Milan Zimmermann](https://github.com/mzimmerm)
-- [Sparkline](https://github.com/xqwzts/flutter_sparkline) - Sparkline by [Victor Choueiri](https://github.com/xqwzts)
-- [Charts](https://github.com/google/charts) - 来自谷歌图表团队（Google Charts Team）
-- [Flutter Plot](https://github.com/RCHowell/flutter_plot) - Pretty plots by [R. C. Howell](https://github.com/RCHowell/).
-- [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) - OHLC and Trade Volume Charts by [Trent Piercy](https://github.com/trentpiercy).
+- [Circular Chart](https://github.com/xqwzts/flutter_circular_chart) —— 带动画效果的径向图和饼图，作者是 [Victor Choueiri](https://github.com/xqwzts)
+- [Flutter Charts](https://github.com/mzimmerm/flutter_charts) —— 折线图和垂直柱状图的库，作者是 [Milan Zimmermann](https://github.com/mzimmerm)
+- [Sparkline](https://github.com/xqwzts/flutter_sparkline) —— Sparkline 图表，作者是 [Victor Choueiri](https://github.com/xqwzts)
+- [Charts](https://github.com/google/charts) —— 来自谷歌图表团队（Google Charts Team）
+- [Flutter Plot](https://github.com/RCHowell/flutter_plot) —— 漂亮的 plot 制图工具，作者是 [R. C. Howell](https://github.com/RCHowell/).
+- [Candlesticks](https://github.com/trentpiercy/flutter-candlesticks) —— OHLC（蜡烛图）和贸易额图表，作者是 [Trent Piercy](https://github.com/trentpiercy).
 
 
 ### 导航
 
-- [Fluro](https://github.com/goposse/fluro) - 具有导航、通配符、查询、过渡动画的最亮，最时尚，最酷的 Flutter 路由器，作者是 [Posse](http://goposse.com)
+- [Fluro](https://github.com/goposse/fluro) —— 具有导航、通配符、查询、过渡动画的最亮，最时尚，最酷的 Flutter 路由器，作者是 [Posse](http://goposse.com)
 - [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
-- [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) - Manage and interact with the application's home screen quick actions.
+- [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) —— 管理和与应用程序的主屏幕快速操作进行交互Manage and interact with the application's home screen quick actions.
 
 ### 认证
 
@@ -205,15 +205,15 @@ Flutter 简介 - Faisal Abid
 
 ## 模板
 
-- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) - 电影详情页面，作者是 [Iiro Krankka](https://github.com/roughike)
-- [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike)
-- [Weather](https://github.com/alessandroaime/Weather) - Weather app to learn how to use Canvas and Animation by [Alessandro Aime](https://github.com/alessandroaime)
+- [Movie Details](https://github.com/FlutterRocks/movie-details-ui) —— 电影详情页面，作者是 [Iiro Krankka](https://github.com/roughike)
+- [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) —— 如何从 randomuser.me API 加载个人信息列表，并通过一个漂亮的页面展示个人信息详情，作者是 [Iiro Krankka](https://github.com/roughike)
+- [Weather](https://github.com/alessandroaime/Weather) —— 学习如何使用 Canvas 和动画的天气应用，作者是 [Alessandro Aime](https://github.com/alessandroaime)
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
-- [Restaurant Menu](https://github.com/braulio94/menu_flutter) - Restaurant menu by [Braulio Cassule](https://github.com/braulio94)
-- [UI Challenges](https://github.com/tomialagbe/flutter_ui_challenges) - Profile, Travel, Food App by [Tomi Alagbe](https://github.com/tomialagbe)
-- [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) - iOS Settings by [Matthias Rupp](https://github.com/matthinc)
-- [Music Player](https://github.com/thosakwe/flutter_music_player) - music player component by [Tobe O](https://thosakwe.com/)
-- [Dashboard](https://github.com/Ivaskuu/dashboard) - Dashboard and Shop Items by [Ivascu Adrian](https://github.com/Ivaskuu)
+- [Restaurant Menu](https://github.com/braulio94/menu_flutter) —— 饭店菜单，作者是 [Braulio Cassule](https://github.com/braulio94)
+- [UI 挑战](https://github.com/tomialagbe/flutter_ui_challenges) —— 个人信息应用、旅行应用、美食应用，作者是 [Tomi Alagbe](https://github.com/tomialagbe)
+- [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) —— iOS 设置，作者是 [Matthias Rupp](https://github.com/matthinc)
+- [Music Player](https://github.com/thosakwe/flutter_music_player) —— 音乐播放器部件，作者是 [Tobe O](https://thosakwe.com/)
+- [Dashboard](https://github.com/Ivaskuu/dashboard) —— 仪表板和商品列表，作者是 [Ivascu Adrian](https://github.com/Ivaskuu)
 
 ## 实用软件
 
