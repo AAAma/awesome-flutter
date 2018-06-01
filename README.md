@@ -1,10 +1,10 @@
 # Awesome Flutter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Getting effective quickly快速生效
+## 快速提升工作效率
 
 [<img src="https://flutter.io/images/flutter-mark-square-100.png" width="100">](http://flutter.io)
 
-> 这是一个甄选了最好的 [Flutter](http://flutter.io) 库、工具、教程、文章以及更多内容的 awesome 风格的列表。
+> 这是一个甄选了最好的 [Flutter](http://flutter.io) 库、工具、教程、文章以及更多内容的 [awesome](https://github.com/sindresorhus/awesome) 风格的列表。
 
 Flutter 是一款能够用一套代码构建针对 iOS 和 Android 平台的高性能、高保真应用程序的移动应用 SDK。
 
@@ -35,7 +35,7 @@ Flutter 是一款能够用一套代码构建针对 iOS 和 Android 平台的高�
 - [导航](#导航)
 - [模板](#模板)
 - [实用软件](#实用软件)
-- [Seeds](#seeds)
+- [种子](#种子)
 - [插件](#插件)
 - [开源应用](#开源应用)
 - [框架](#框架)
@@ -54,9 +54,9 @@ Flutter 简介 - Faisal Abid
 
 ### 入门文章
 
-- [Flutter 实验室](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) —— 一步一步地教你用 Flutter 开发漂亮的用户界面
+- [Flutter 实验室](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) —— 一步一步地教你用 Flutter 开发漂亮的 UI
 - [Flutter 从零到一](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) —— Flutter 基础，作者是 [Mikkel Ravn](https://medium.com/@mravn)
-- [FLUTTER 从安装到写一个 ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) —— 全套4篇文章，作者是 [Chema Rubio](https://twitter.com/develodroid)
+- [Flutter 从安装到写一个 ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) —— 全套4篇文章，作者是 [Chema Rubio](https://twitter.com/develodroid)
 - [Flutter 有哪些革命性的内容](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514) —— 与其他各种移动 SDK 的比较，作者是 [Wm Leler](https://twitter.com/flutter_wm)
 
 ### 教程
@@ -95,17 +95,17 @@ Flutter 简介 - Faisal Abid
 
 - [Flutter Gallery](https://github.com/flutter/flutter/tree/master/examples/flutter_gallery) —— 展示 Material Design 风格的 Widget 还有 Flutter 提供的一些其他功能的示例应用。
 - [Posse Gallery](https://github.com/flutter/posse_gallery) —— 示例，作者是 [Posse](http://goposse.com)
-- [Flutter 示例](https://github.com/nisrulz/flutter-examples) —— 为 Flutter 开发者提供的一个简单基本的独立应用，作者是 [Nishant Srivastava](https://github.com/nisrulz)
+- [Flutter 示例](https://github.com/nisrulz/flutter-examples) —— 为 Flutter 开发者提供的一个简单基础的独立应用，作者是 [Nishant Srivastava](https://github.com/nisrulz)
 
 ### UI
 
 - [SpriteWidget](https://github.com/spritewidget/spritewidget) —— 用于构建复杂的高性能动画和 2D 游戏的工具包，作者是 Viktor Lidholt
-- [Color Picker](https://github.com/dart-flitter/flutter_color_picker) —— Primary, Accent & RGB colors selection by [Hadrien Lejard](https://twitter.com/HadrienLejard)
-- [3D 对象](https://github.com/hemanthrajv/flutter_3d_obj) - Renders a wavefront .obj on to a canvas by [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
-- [Contact Picker](https://github.com/goderbauer/contact_picker) - 从通讯录里选取一个联系人，作者是 [Michael Goderbauer](https://github.com/goderbauer)
+- [拾色器](https://github.com/dart-flitter/flutter_color_picker) —— 选择 Primary、Accent 和 RGB 颜色，作者是 [Hadrien Lejard](https://twitter.com/HadrienLejard)
+- [3D 对象](https://github.com/hemanthrajv/flutter_3d_obj) —— 在画布（canvas）上面渲染一个 wavefront 对象（.obj 文件，Alias|Wavefront 公司的 3D 模型文件格式），作者是 [Hemanth Raj](https://www.linkedin.com/in/hemanthrajv)
+- [Contact Picker](https://github.com/goderbauer/contact_picker) —— 从通讯录里选取一个联系人，作者是 [Michael Goderbauer](https://github.com/goderbauer)
 - [Parallax](https://github.com/FlutterRocks/page-transformer) —— ViewPager，作者是 [Iiro Krankka](https://github.com/roughike)
-- [富文本编辑器](https://github.com/long1eu/rich_editor) —— Text editor with style by [Lung Razvan](https://github.com/long1eu)
-- [Material 风格的颜色拾取器](https://github.com/long1eu/material_color_picker) —— 基于 Google Docs 的颜色拾取器，作者是 [Lung Razvan](https://github.com/long1eu)
+- [富文本编辑器](https://github.com/long1eu/rich_editor) —— 很有风格的文本编辑器，作者是 [Lung Razvan](https://github.com/long1eu)
+- [Material 风格的拾色器](https://github.com/long1eu/material_color_picker) —— 基于 Google Docs 的拾色器，作者是 [Lung Razvan](https://github.com/long1eu)
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) —— 具有不同尺寸磁贴（tile）的 GridView，作者是 [Romain Rastel](https://github.com/letsar)
 - [径向菜单](https://github.com/xqwzts/flutter_radial_menu) —— 带动画的径向菜单，作者是 [Victor Choueiri](https://github.com/xqwzts)
 - [Tinder 卡片](https://github.com/Ivaskuu/tinder_cards) —— Tinder like 卡片滑动效果，作者是 [Ivascu Adrian](https://github.com/Ivaskuu)
@@ -114,7 +114,7 @@ Flutter 简介 - Faisal Abid
 
 - [Image Picker](https://github.com/flutter/plugins/tree/master/packages/image_picker) —— 图片选择器，作者是 [Collin Jackson](http://www.collinjackson.com)
 - [可缩放图像](https://github.com/perlatus/flutter_zoomable_image) —— 作者是 Perlatus
-- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) —— 一个旋转滑动小部件，支持无限滚动和自定义子小部件，作者是 [serenader](https://github.com/serenader2014)
+- [Carousel Slider](https://github.com/serenader2014/flutter_carousel_slider) —— 一个旋转滑动小部件，支持无限滚动和自定义子部件，作者是 [serenader](https://github.com/serenader2014)
 - [Parallax Image](https://github.com/pulyaevskiy/parallax-image) —— 图像视差，作者是 [Anatoly Pulyaevskiy](https://github.com/pulyaevskiy)
 
 ### 地图
@@ -122,7 +122,7 @@ Flutter 简介 - Faisal Abid
 - [Google Map View](https://github.com/apptreesoftware/flutter_google_map_view) —— 展示谷歌地图的插件，作者是 [AppTree Software](https://www.linkedin.com/company/apptree-software/)
 - [GeoCoder](https://github.com/aloisdeniel/flutter_geocoder) —— 正向和反向地理编码，作者是 [Aloïs Deniel](https://aloisdeniel.github.com)
 - [Flutter 地图](https://github.com/apptreesoftware/flutter_map) —— 开源的地图解决方案（基于 [Leaflet](http://leafletjs.com/)），可以轻松定制，欢迎大家多做贡献。作者是 [AppTree Software](https://github.com/apptreesoftware)
-- [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) —— 交互式、可定制的矢量地图，作者是 Mapbox.
+- [Mapbox GL](https://github.com/mapbox/flutter-mapbox-gl) —— 交互式、可定制的矢量地图，作者是 Mapbox。
 
 #### 图表
 
@@ -136,20 +136,20 @@ Flutter 简介 - Faisal Abid
 
 ### 导航
 
-- [Fluro](https://github.com/goposse/fluro) —— 具有导航、通配符、查询、过渡动画的最亮，最时尚，最酷的 Flutter 路由器，作者是 [Posse](http://goposse.com)
-- [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) - Circle indicator for the PageViewer by [Lung Razvan](https://github.com/long1eu)
-- [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) —— 管理和与应用程序的主屏幕快速操作进行交互Manage and interact with the application's home screen quick actions.
+- [Fluro](https://github.com/goposse/fluro) —— 具有导航、通配符、查询、过渡动画的最亮、最时尚、最酷的 Flutter 路由器，作者是 [Posse](http://goposse.com)
+- [Circle Indicator](https://pub.dartlang.org/packages/circle_indicator) —— PageViewer 的圆形指示器，作者是 [Lung Razvan](https://github.com/long1eu)
+- [Quick Actions](https://github.com/flutter/plugins/tree/master/packages/quick_actions) —— 管理并与应用程序的主屏幕快速操作进行交互。
 
 ### 认证
 
-- [Local Auth](https://github.com/flutter/plugins/tree/master/packages/local_auth) - Touch ID, lock code, fingerprint auth on Ios and Android
-- [Flutter Login](https://github.com/AppleEducate/flutter_login) - FaceID, TouchID, and Fingerprint Reader by [Rody Davis](http://appleeducate.com)
-- [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) - Google OAuth
-- [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) - Firebase OAuth
-- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) - Facebook OAuth by [Kevin Segaud](https://twitter.com/kevin_segaud)
-- [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) - Buffer, Strava, Unsplash, Github OAuth by [Joe Birch](http://www.hitherejoe.com)
-- [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) - Instagram auth by [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
-- [Slack OAuth](https://github.com/Kunstmaan/flutter_slack_oauth) or [Slack OAuth Firebase](https://github.com/Kunstmaan/flutter_slack_oauth_firebase) - Slack OAuth, optionally with Firebase Auth and Cloud Firestore integration.
+- [本地身份验证](https://github.com/flutter/plugins/tree/master/packages/local_auth) —— Ios 和 Android 上的 Touch ID、锁屏密码和指纹验证
+- [Flutter 登录](https://github.com/AppleEducate/flutter_login) —— FaceID, TouchID, 还有指纹扫描，作者是 [Rody Davis](http://appleeducate.com)
+- [Google Sign-In](https://github.com/flutter/plugins/tree/master/packages/google_sign_in) —— Google 身份验证
+- [Firebase Auth](https://github.com/flutter/plugins/tree/master/packages/firebase_auth) —— Firebase 身份验证
+- [Facebook Auth](https://medium.com/@segaud.kevin/facebook-oauth-login-flow-with-flutter-9adb717c9f2e) —— Facebook 身份验证，作者是 [Kevin Segaud](https://twitter.com/kevin_segaud)
+- [Flutter OAuth](https://github.com/hitherejoe/FlutterOAuth) —— Buffer、Strava、Unsplash 和 Github 身份验证，作者是 [Joe Birch](http://www.hitherejoe.com)
+- [Instagram](https://hackernoon.com/instagram-authentication-with-flutter-df6424d2d56c) —— Instagram 身份验证，作者是 [Wilfried Mbouenda Mbogne](http://developer-journey.com/)
+- [Slack OAuth](https://github.com/Kunstmaan/flutter_slack_oauth) 或者是 [Slack OAuth Firebase](https://github.com/Kunstmaan/flutter_slack_oauth_firebase) —— Slack OAuth，可以选择使用 Firebase 身份验证和 Cloud Firestore 集成。
 
 ### 文字和富文本
 
@@ -171,15 +171,15 @@ Flutter 简介 - Faisal Abid
 - [Travis CI for Flutter](https://github.com/yjbanov/flutter_travis_sample) —— 持续集成，作者是 [Yegor Jbanov](https://twitter.com/yegorjbanov)
 - [在 Travis 上测试 Flutter](https://medium.com/@yegorj/test-flutter-apps-on-travis-3fd5142ecd8c) —— Widget 测试框架，作者是 [Yegor Jbanov](https://twitter.com/yegorjbanov)
 - [在 Travis 上构建 Apk/Ipa](https://medium.com/@yegorj/building-flutter-apks-and-ipas-on-travis-98d84d8e9b4) —— 针对 Android 和 IOS 平台的自动化构建，作者是 [Yegor Jbanov](https://twitter.com/yegorjbanov)
-- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) —— Create Bitrise Step in Go by [Karol Wrótniak](https://medium.com/@karol.wrotniak)
+- [BitRise](https://medium.com/@karol.wrotniak/how-to-create-bitrise-step-in-go-flutter-example-668cf4db1fd2) —— 用 Go 语言创建 Bitrise 步骤，作者是 [Karol Wrótniak](https://medium.com/@karol.wrotniak)
 
 ### 风格
 
-- [Flutterial](https://github.com/rxlabz/flutterial) —— Flutter Material 主题的探索者 explorer by [Erick Ghaumez](https://twitter.com/rxlabz)
-- [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) - Render effect by [Collin Jackson](http://www.collinjackson.com)
-- [Font Awesome](https://pub.dartlang.org/packages/font_awesome_flutter) - Font Awesome icons repack by Brian Egan
-- [FlutterIcon](http://fluttericon.com/) - 图标字体生成器
-- [Pigment](https://github.com/bregydoc/pigment) - A simple but useful package for use colors in flutter.
+- [Flutterial](https://github.com/rxlabz/flutterial) —— Flutter Material 主题的探索者，作者是 [Erick Ghaumez](https://twitter.com/rxlabz)
+- [Frosted Glass](http://stackoverflow.com/questions/43550853/how-do-i-do-the-frosted-glass-effect-in-flutter) —— 渲染器效果，作者是 [Collin Jackson](http://www.collinjackson.com)
+- [Font Awesome](https://pub.dartlang.org/packages/font_awesome_flutter) —— Font Awesome 图标包，作者是 Brian Egan
+- [FlutterIcon](http://fluttericon.com/) —— 图标字体生成器
+- [Pigment](https://github.com/bregydoc/pigment) —— 一个简单但是很实用的在 Flutter 里面使用颜色的包。
 
 ### 多媒体
 
@@ -208,7 +208,7 @@ Flutter 简介 - Faisal Abid
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) —— 电影详情页面，作者是 [Iiro Krankka](https://github.com/roughike)
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) —— 如何从 randomuser.me API 加载个人信息列表，并通过一个漂亮的页面展示个人信息详情，作者是 [Iiro Krankka](https://github.com/roughike)
 - [Weather](https://github.com/alessandroaime/Weather) —— 学习如何使用 Canvas 和动画的天气应用，作者是 [Alessandro Aime](https://github.com/alessandroaime)
-- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) - TODO application ready to go with different flavors : Vanilla, Redux, built_redux by [Brian Egan](https://github.com/brianegan)
+- [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) —— 准备使用不同框架的备忘录应用：Vanilla, Redux, built_redux，作者是 [Brian Egan](https://github.com/brianegan)
 - [Restaurant Menu](https://github.com/braulio94/menu_flutter) —— 饭店菜单，作者是 [Braulio Cassule](https://github.com/braulio94)
 - [UI 挑战](https://github.com/tomialagbe/flutter_ui_challenges) —— 个人信息应用、旅行应用、美食应用，作者是 [Tomi Alagbe](https://github.com/tomialagbe)
 - [Cupertino Settings](https://github.com/matthinc/flutter_cupertino_settings) —— iOS 设置，作者是 [Matthias Rupp](https://github.com/matthinc)
@@ -219,27 +219,27 @@ Flutter 简介 - Faisal Abid
 
 ### IDE
 
-- [IntelliJ Plugin](https://flutter.io/intellij-setup) —— Flutter on Intellij and Webstorm
-- [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Plugin to get Dart with Visual Studio Code by [Danny Tuppeny](https://twitter.com/DanTup)
-- [IntelliJ Snippets](https://github.com/Solido/flutter-snippet) - More More More Snippets to get stuffs done even faster and also learn quickly by [Robert Felker](https://github.com/Solido)
-- [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) - Translated from IntelliJ IDEA Official Snippets by Franz Silva
+- [IntelliJ 插件](https://flutter.io/intellij-setup) —— Intellij 和 Webstorm 上面的 Flutter
+- [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) —— 在 Visual Studio Code 上使用 Dart 语言的插件，作者是 [Danny Tuppeny](https://twitter.com/DanTup)
+- [IntelliJ Snippets](https://github.com/Solido/flutter-snippet) —— 非常多的 Snippet 可以更快的完成任务，并且快速学习，作者是 [Robert Felker](https://github.com/Solido)
+- [VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=franzsilva.fs-flutter-snippets) —— 从 IntelliJ IDEA 官方 Snippet 改编的，作者是 Franz Silva
 
 ## 插件
 
 - [Flutter 插件](https://github.com/flutter/plugins/tree/master/packages) —— Flutter 团队的官方插件
 - [Sqflite](https://github.com/tekartik/sqflite) —— SQLite 的 Flutter 插件，作者是 [Alexandre Roux](https://www.linkedin.com/in/alextekartik/)
 - [WebView](https://github.com/dart-flitter/flutter_webview_plugin) —— 作者是 [Hadrien Lejard](https://twitter.com/HadrienLejard)  
-- [Pub Plugins](https://pub.dartlang.org/flutter/plugins) - Plugins filter in Dart Pub Repository
-- [Flutter Location](https://github.com/Lyokone/flutterlocation) - Handle location, handling callbacks to get continuous location by [Lyokone](https://github.com/Lyokone)
-- [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) - QR Code reader plugin by [Matheus Villela](https://github.com/villela)
-- [Battery](https://pub.dartlang.org/packages/battery) - Access various information about the battery
-- [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) - Use Zebra EMDK to access Barcode Scanner API
-- [Proximity Sensor Plugin](https://pub.dartlang.org/packages/proximity_plugin) - A plugin to access the proximity sensor of your device by [Manoj NB](https://github.com/Samaritan1011001)
-- [Geolocation](https://github.com/loup-v/geolocation) - Fully featured geolocation plugin: current location, location updates, geocode, places and more by [Loup](http://intheloup.io)
-- [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) - Plugin for displaying local notifications by [Michael Bui](https://github.com/MaikuB)
-- [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) - Implementation of Google Mobile Vision by [Eduardo Folly](https://github.com/edufolly)
-- [App Rating](https://github.com/AppleEducate/app_review) - Requesting and Writing Reviews for the App Store and Google Play by [Rody Davis](http://appleeducate.com)
-- [Get Version](https://github.com/AppleEducate/get_version) - Version Name, Version Code, App ID and Platform with OS Version by [Rody Davis](http://appleeducate.com)
+- [Pub Plugins](https://pub.dartlang.org/flutter/plugins) —— Dart Pub Repository 里的筛选插件
+- [Flutter Location](https://github.com/Lyokone/flutterlocation) —— 处理位置，处理回调以获得连续的位置，作者是 [Lyokone](https://github.com/Lyokone)
+- [QR Code Reader](https://github.com/villela/flutter_qrcode_reader) —— 二维码扫描插件，作者是 [Matheus Villela](https://github.com/villela)
+- [Battery](https://pub.dartlang.org/packages/battery) —— 获取电池相关的各种信息
+- [Zebra EMDK](https://github.com/acaliaro/flutterZebraEmdk) —— 使用 Zebra EMDK 来获取 Barcode Scanner API
+- [Proximity Sensor Plugin](https://pub.dartlang.org/packages/proximity_plugin) —— 一个可以访问你设备上的距离传感器（proximity sensor）的插件，作者是 [Manoj NB](https://github.com/Samaritan1011001)
+- [Geolocation](https://github.com/loup-v/geolocation) —— 功能齐全的地理位置插件：当前位置，位置更新，地理编码，地点等等，作者是 [Loup](http://intheloup.io)
+- [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) —— 展示本地通知的插件，作者是 [Michael Bui](https://github.com/MaikuB)
+- [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) ——  Google Mobile Vision 的实现，作者是 [Eduardo Folly](https://github.com/edufolly)
+- [App Rating](https://github.com/AppleEducate/app_review) —— 为 App Store 和 Google Play 请求和写评论，作者是 [Rody Davis](http://appleeducate.com)
+- [Get Version](https://github.com/AppleEducate/get_version) —— 获取版本名、版本号、App ID 和带有操作系统版本的平台信息，作者是 [Rody Davis](http://appleeducate.com)
 
 ### 插件开发
 
@@ -262,7 +262,7 @@ Flutter 简介 - Faisal Abid
 - [WikiFlutter](https://github.com/nanowang/wiki-flutter) —— [Nano WANG](https://github.com/nanowang) 开发的维基百科阅读器
 - [DartHub](https://github.com/SamThompson/dart_hub) —— 用 Flutter 写的 GitHub 客户端，作者是 [Sam Thompson](https://github.com/SamThompson)
 - [Planets-Flutter](https://github.com/sergiandreplace/flutter_planets_tutorial) —— 显示了丰富 UI 的行星探索应用，作者是 [Sergi Martínez](http://sergiandreplace.com)
-- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) - Firebase backed news reader using News API by [Ankur Kedia](https://github.com/theankurkedia)
+- [NewsBuzz](https://github.com/theankurkedia/NewsBuzz) —— 从 News API 获取数据并使用 Firebase 做后台的新闻阅读器，作者是 [Ankur Kedia](https://github.com/theankurkedia)
 - [Fluvies](https://github.com/dilpreet96/Fluvies.git) —— 使用了 MVP、PathProviders、FutureBuilders 还有数据库的电影浏览应用，作者是 [Dilpreet Singh](https://github.com/dilpreet96)
 - [DroidKaigi2018-flutter](https://github.com/konifar/droidkaigi2018-flutter) —— 东京 DroidKaigi 2018 的非官方会议应用，作者是 [konifar](https://github.com/konifar)
 - [Heroes Companion](https://github.com/arranf/Heroes-Companion) —— 风暴英雄（Heroes of Storm）的辅助应用，包含 Redux 和 Sqflite，作者是 [arranf](https://github.com/arranf)
@@ -276,10 +276,10 @@ Flutter 简介 - Faisal Abid
 
 ### Flux / Redux
 
-- [GreenCat](https://github.com/alexeieleusis/greencat) - Port of Redux to Dart, including Redux Thunk
-- [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) - Automatic subscribing to your redux stores. Based on the built pattern by [David Marne](https://github.com/davidmarne)
-- [redux.dart](https://github.com/johnpryan/redux.dart) - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, and time traveling dev tools by [John Ryan](https://github.com/johnpryan) and [Brian Egan](https://gitlab.com/users/brianegan/projects)
-- [flutter_redux](https://github.com/brianegan/flutter_redux) - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart), utilities that allow you to easily consume a Redux Store to build Flutter Widgets.
+- [GreenCat](https://github.com/alexeieleusis/greencat) —— 针对 Dart 语言的 Redux 接口，包含 Redux Thunk
+- [Flutter built redux](https://github.com/davidmarne/flutter_built_redux) —— 自动订阅你的 Redux 仓库。基于建造模式，作者是 [David Marne](https://github.com/davidmarne)
+- [redux.dart](https://github.com/johnpryan/redux.dart) —— 具有中间件生态系统、集成了 Flutter 还有时间旅行开发工具的面向 Dart 语言的 Redux 接口，作者是 [John Ryan](https://github.com/johnpryan) 和 [Brian Egan](https://gitlab.com/users/brianegan/projects)
+- [flutter_redux](https://github.com/brianegan/flutter_redux) —— 这是一个能支持 [redux.dart](https://github.com/johnpryan/redux.dart) 的实用工具，能让你轻松消费 Redux Store 来开发 Flutter Widgets。
 
 ### 游戏
 
