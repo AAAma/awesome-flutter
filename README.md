@@ -6,9 +6,9 @@
 
 > 这是一个甄选了最好的 [Flutter](http://flutter.io) 库、工具、教程、文章以及更多内容的 [awesome](https://github.com/sindresorhus/awesome) 风格的列表。
 
-Flutter 是一款能够用一套代码构建针对 iOS 和 Android 平台的高性能、高保真应用程序的移动应用 SDK。
+Flutter 是可以用一份代码来创建 iOS 和 Android 高性能、高保真应用的移动端 SDK。
 
-它的目标是使开发人员能够交付在不同平台上都感觉自然的高性能应用程序。当然我们也拥抱滚动行为、排版、图标等方面的差异。
+它的目标是使开发人员能够交付在不同平台上都感觉自然的高性能应用程序。当然我们也囊括了滚动行为、排版、图标等方面的特性差异。
 
 欢迎大家贡献一份力量。可以通过 pull request 添加链接或者创建一个 issue 来开始讨论。
 
@@ -35,7 +35,7 @@ Flutter 是一款能够用一套代码构建针对 iOS 和 Android 平台的高�
 - [导航](#导航)
 - [模板](#模板)
 - [实用软件](#实用软件)
-- [种子](#种子)
+- [资源](#资源)
 - [插件](#插件)
 - [开源应用](#开源应用)
 - [框架](#框架)
@@ -61,7 +61,7 @@ Flutter 简介 - Faisal Abid
 
 ### 教程
 
-- [开发一个安卓应用](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) —— 配置还有开发第一个应用，作者是 [Ashraff Hathibelagal](https://github.com/hathibelagal)
+- [开发一个安卓应用](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) —— 配置和开发第一个应用，作者是 [Ashraff Hathibelagal](https://github.com/hathibelagal)
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) —— 用 Flutter 创建漂亮的 UI，来自谷歌代码实验室（Google Code Labs）
 - [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) —— Firebase Flutter， 来自谷歌代码实验室
 - [Planets-Flutter：从设计到开发](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
@@ -81,7 +81,7 @@ Flutter 简介 - Faisal Abid
 ### 说明文档
 
 - [Flutter 动画从零到一](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) —— 主要讲动画，作者是 [Mikkel Ravn](https://medium.com/@mravn)
-- [Drag&Drop](https://github.com/rxlabz/flutter_dropcity) —— 作者是 [Erick Ghaumez](https://twitter.com/rxlabz)
+- [拖放](https://github.com/rxlabz/flutter_dropcity) —— 作者是 [Erick Ghaumez](https://twitter.com/rxlabz)
 - [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) —— 由 Google Cloud Functions 支持的 Flutter 应用，作者是 [Romin Irani](https://rominirani.com/@iromin)
 - [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) —— Firebase 实时编码
 - [保障 Flutter 应用的安全](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) —— 作者是 Mehmet Fidanboylu
@@ -207,7 +207,7 @@ Flutter 简介 - Faisal Abid
 
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) —— 电影详情页面，作者是 [Iiro Krankka](https://github.com/roughike)
 - [Flutter Mates](https://github.com/CodemateLtd/FlutterMates) —— 如何从 randomuser.me API 加载个人信息列表，并通过一个漂亮的页面展示个人信息详情，作者是 [Iiro Krankka](https://github.com/roughike)
-- [Weather](https://github.com/alessandroaime/Weather) —— 学习如何使用 Canvas 和动画的天气应用，作者是 [Alessandro Aime](https://github.com/alessandroaime)
+- [Weather](https://github.com/alessandroaime/Weather) —— 学习如何使用 Canvas 和动画去制作天气应用，作者是 [Alessandro Aime](https://github.com/alessandroaime)
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) —— 准备使用不同框架的备忘录应用：Vanilla, Redux, built_redux，作者是 [Brian Egan](https://github.com/brianegan)
 - [Restaurant Menu](https://github.com/braulio94/menu_flutter) —— 饭店菜单，作者是 [Braulio Cassule](https://github.com/braulio94)
 - [UI 挑战](https://github.com/tomialagbe/flutter_ui_challenges) —— 个人信息应用、旅行应用、美食应用，作者是 [Tomi Alagbe](https://github.com/tomialagbe)
@@ -238,7 +238,7 @@ Flutter 简介 - Faisal Abid
 - [Geolocation](https://github.com/loup-v/geolocation) —— 功能齐全的地理位置插件：当前位置，位置更新，地理编码，地点等等，作者是 [Loup](http://intheloup.io)
 - [Local Notifications](https://github.com/MaikuB/flutter_local_notifications) —— 展示本地通知的插件，作者是 [Michael Bui](https://github.com/MaikuB)
 - [Google Mobile Vision](https://github.com/edufolly/flutter_mobile_vision) ——  Google Mobile Vision 的实现，作者是 [Eduardo Folly](https://github.com/edufolly)
-- [App Rating](https://github.com/AppleEducate/app_review) —— 为 App Store 和 Google Play 请求和写评论，作者是 [Rody Davis](http://appleeducate.com)
+- [App Rating](https://github.com/AppleEducate/app_review) —— 为 App Store 和 Google Play 评分和写评论，作者是 [Rody Davis](http://appleeducate.com)
 - [Get Version](https://github.com/AppleEducate/get_version) —— 获取版本名、版本号、App ID 和带有操作系统版本的平台信息，作者是 [Rody Davis](http://appleeducate.com)
 
 ### 插件开发
