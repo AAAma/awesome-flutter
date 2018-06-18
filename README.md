@@ -47,7 +47,7 @@ Flutter 是可以用一份代码来创建 iOS 和 Android 高性能、高保真�
 <a href="https://www.youtube.com/watch?v=GCCjR0mbJMM&feature=youtu.be">
 <img width="500" src="https://i.ytimg.com/vi/GCCjR0mbJMM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBqUsMLcLjhAs-_Bp-PvM_jbqGSwQ">
 <br>
-Flutter 简介 - Faisal Abid
+Flutter 简介 —— Faisal Abid
 </a>
 
 ## 文集
@@ -56,14 +56,14 @@ Flutter 简介 - Faisal Abid
 
 - [Flutter 实验室](https://codelabs.developers.google.com/codelabs/flutter/index.html#0) —— 一步一步地教你用 Flutter 开发漂亮的 UI
 - [Flutter 从零到一](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) —— Flutter 基础，作者是 [Mikkel Ravn](https://medium.com/@mravn)
-- [Flutter 从安装到写一个 ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) —— 全套4篇文章，作者是 [Chema Rubio](https://twitter.com/develodroid)
+- [Flutter 从安装到写一个 ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) —— 全套 4 篇文章，作者是 [Chema Rubio](https://twitter.com/develodroid)
 - [Flutter 有哪些革命性的内容](https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514) —— 与其他各种移动 SDK 的比较，作者是 [Wm Leler](https://twitter.com/flutter_wm)
 
 ### 教程
 
 - [开发一个安卓应用](https://code.tutsplus.com/tutorials/developing-an-android-app-with-flutter--cms-28270) —— 配置和开发第一个应用，作者是 [Ashraff Hathibelagal](https://github.com/hathibelagal)
 - [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) —— 用 Flutter 创建漂亮的 UI，来自谷歌代码实验室（Google Code Labs）
-- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) —— Firebase Flutter， 来自谷歌代码实验室
+- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) —— Firebase Flutter，来自谷歌代码实验室
 - [Planets-Flutter：从设计到开发](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app)
 
 #### 视频教程
@@ -296,7 +296,7 @@ Flutter 简介 - Faisal Abid
 ### 已经发布的应用
 - Hamilton ([iOS 版本](https://itunes.apple.com/fr/app/hamilton-the-official-app/id1255231054?mt=8&ign-mpt=uo%3D4) / [Android 版本](https://play.google.com/store/apps/details?id=com.hamilton.app)) —— 《汉密尔顿》介绍，一个官方应用，里面有粉丝们能够接触到的一切。（《汉密尔顿》：介绍美国开国元勋亚历山大`汉密尔顿生平的一部音乐剧，译者补充）
 - Newsvoice ([iOS 版本](https://itunes.apple.com/se/app/newsvoice/id1208421834?l=en&mt=8) / [Android 版本](https://play.google.com/store/apps/details?id=com.newsvoice.newsvoice)) —— Newsvoice 可以在一个地方显示来自高质量资源的所有新闻和观点。
-- [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) —— "口琴调音器"。学习如何在口琴上演奏压音（bend：压音，十孔口琴的一种演奏技巧，译者注）。
+- [Bendometer](https://itunes.apple.com/us/app/bendometer/id772557902?mt=8) —— “口琴调音器”。学习如何在口琴上演奏压音（bend：压音，十孔口琴的一种演奏技巧，译者注）。
 - [Ecuestre Digital](https://itunes.apple.com/mx/app/ecuestre-digital/id1183799348?mt=8) —— Ecuestre Digital 提供了马术比赛的实时结果和视频流。
 <!--- - [Scrumizer](https://play.google.com/store/apps/details?id=com.robbieone.scrumizer) - Scrum master and product owner certification trainer by [Robert Felker](https://www.linkedin.com/in/robert-felker/) --->
 - [Hookle](https://www.hookle.net/) —— 在一个地方管理你的所有社交媒体
