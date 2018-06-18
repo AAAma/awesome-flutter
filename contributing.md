@@ -1,8 +1,6 @@
 # 贡献指南
 
-请注意，跟这个项目一起发布的还有一个 [贡献者行为准则](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc)。只要参与这个项目，就表示你同意遵守其中的条款。
-
--
+请注意，跟这个项目一起发布的还有一个[贡献者行为准则](https://github.com/spring-projects/spring-framework/blob/master/CODE_OF_CONDUCT.adoc)。只要参与这个项目，就表示你同意遵守其中的条款。
 
 确保你的 pull request 符合以下准则：
 
@@ -10,7 +8,7 @@
 - 建议包应该经过测试并且有文档描述。
 - 每个 pull request 都应该有一个有意义的标题，并且包含一个指向包或者是资源的链接，以及为什么它很棒。
 - 每个建议都要提一个单独的 pull request。
-- 使用以下格式：`[资源]（链接） - 描述`。
+- 使用以下格式：`[资源]（链接）— 描述`。
 - 使用 [title-casing](http://titlecapitalization.com)（美联社英语新闻写作风格）。
 - 新增的内容应该添加到相关分类的底部。
 - 欢迎提出新的分类或对现有的分类进行改进。
@@ -22,4 +20,3 @@
 - 确保你的文本编辑器设置为删除结尾的空白。
 
 谢谢你的建议！
-
